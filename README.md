@@ -1,2 +1,2 @@
 # turf_analysis
-Identifying the best icecream flavors to launch based on user preferences
+Identifying the ideal number of icecream flavors to launch. Using the user preference data to decide which flavors should we launch to ensure we reach maximum number of unique people. We want to make sure that for each new flavor added, we see an increase of at least 10% in the number of distinct users. Maximizing the frequency of buyers in case the number of unique users is the same.
